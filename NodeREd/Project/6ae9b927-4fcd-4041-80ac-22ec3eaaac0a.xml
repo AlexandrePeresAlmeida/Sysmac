@@ -5,4 +5,4 @@
 {"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In1","Ix":1,"Type":"ANY_ELEMENTARY, ENUM","Var":"VarInt"},{"__type":"PRM","Arg":"In2","Ix":2,"Type":"ANY_ELEMENTARY, ENUM","Var":"Int#100"}],"Ix":3,"Name":"=","Out":[{"__type":"PF","Arg":""}],"PL":true},{"__type":"ST","S":true,"Var":"SetMax","X":1}],"LRI":4,"RRI":5,"VLs":[]}
 {"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In1","Ix":1,"Type":"ANY_ELEMENTARY, ENUM","Var":"VarInt"},{"__type":"PRM","Arg":"In2","Ix":2,"Type":"ANY_ELEMENTARY, ENUM","Var":"Int#0"}],"Ix":3,"Name":"=","Out":[{"__type":"PF","Arg":""}],"PL":true},{"__type":"ST","RS":true,"Var":"SetMax","X":1}],"LRI":4,"RRI":5,"VLs":[]}
 {"CLs":[{"__type":"LD","Var":"Teste"},{"__type":"ST","Ix":1,"Var":"Teste1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
-{"CLs":[{"__type":"LD","Var":"Teste2"},{"__type":"ST","Ix":1,"Var":"Saida2","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Var":"Teste2"},{"__type":"ST","Ix":1,"Var":"Saida3","X":1}],"LRI":2,"RRI":3,"VLs":[]}
