@@ -1,0 +1,7 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=BOOL	N=Teste	NTP=PublicationOnly	G=VAR_GLOBAL
+++D=INT	N=VarInt	IV=25	NTP=PublicationOnly	G=VAR_GLOBAL
+++D=STRING[50]	N=Nome	NTP=PublicationOnly	G=VAR_GLOBAL
+++D=STRING[50]	N=Email	NTP=PublicationOnly	G=VAR_GLOBAL

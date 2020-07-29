@@ -1,0 +1,11 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR	GVT=DefaultGroup
+++D=BOOL	N=Teste1	G=VAR
+++D=BOOL	N=SetMax	Ord=2	G=VAR	AOE=1
+++D=_sTimer	N=tempoOn	Ord=5	G=VAR	AOE=1
+++D=_sTimer	N=tempoOff	Ord=6	G=VAR	AOE=1
+++D=BOOL	N=BTempoOff	Ord=7	G=VAR	AOE=1
++GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
+++D=BOOL	N=Teste	G=VAR_EXTERNAL
+++D=INT	N=VarInt	Ord=1	G=VAR_EXTERNAL	AOE=1
