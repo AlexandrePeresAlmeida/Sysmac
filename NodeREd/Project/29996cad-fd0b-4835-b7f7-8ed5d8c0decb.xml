@@ -9,6 +9,7 @@ _EN=Variables
 ++D=BOOL	N=Teste2	G=VAR
 ++D=BOOL	N=Saida2	G=VAR
 ++D=BOOL	N=Saida3	G=VAR
+++D=BOOL	N=saida4	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
 ++D=BOOL	N=Teste	G=VAR_EXTERNAL
 ++D=INT	N=VarInt	Ord=1	G=VAR_EXTERNAL	AOE=1
